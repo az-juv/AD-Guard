@@ -1,7 +1,7 @@
-api.surfeasy.com
-de0.opera-proxy.net
-api.sec-tunnel.com
-sitecheck2.opera.com
-opera-mini.net
-exchange.opera.com
-features.opera-api.com
+||api.surfeasy.com
+||de0.opera-proxy.net^$important
+||api.sec-tunnel.com^$important
+||sitecheck2.opera.com^$important
+||opera-mini.net^$important
+||exchange.opera.com^$important
+||features.opera-api.com^$important
