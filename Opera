@@ -12,3 +12,7 @@
 ||185.26.180.0/22^$important
 ||195.189.142.0/23^$important
 ||2001:4c28::/29^$important
+||opera.software^$important
+||opera.com^$important
+||opera-api.com^$important
+||operacdn.com^$important
